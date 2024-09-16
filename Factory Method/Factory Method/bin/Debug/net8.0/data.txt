@@ -1,0 +1,3 @@
+Course Id = 1 Name = course Teatcher id = 1, Student id = 234,12,11
+Student Id = 1, Name = ad, Courses = 123,54,111,4124
+Teacher Id = 5, Name =1234, Exp = 100, Courses = 54,11,2
