@@ -1,0 +1,5 @@
+student 2 Dennis
+student 3 Jeff
+student 4 Anton
+teacher 1 Alecsandro 10
+course 1 Math 1 2 3 4

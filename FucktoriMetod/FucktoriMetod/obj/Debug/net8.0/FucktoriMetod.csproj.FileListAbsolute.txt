@@ -1,0 +1,14 @@
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\FucktoriMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\FucktoriMetod.AssemblyInfoInputs.cache
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\FucktoriMetod.AssemblyInfo.cs
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\FucktoriMetod.csproj.CoreCompileInputs.cache
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\bin\Debug\net8.0\FucktoriMetod.exe
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\bin\Debug\net8.0\FucktoriMetod.deps.json
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\bin\Debug\net8.0\FucktoriMetod.runtimeconfig.json
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\bin\Debug\net8.0\FucktoriMetod.dll
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\bin\Debug\net8.0\FucktoriMetod.pdb
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\FucktoriMetod.dll
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\refint\FucktoriMetod.dll
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\FucktoriMetod.pdb
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\FucktoriMetod.genruntimeconfig.cache
+C:\Users\kulikovia\source\repos\FucktoriMetod\FucktoriMetod\obj\Debug\net8.0\ref\FucktoriMetod.dll
